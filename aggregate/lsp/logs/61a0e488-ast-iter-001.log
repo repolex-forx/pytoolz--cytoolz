@@ -1,0 +1,7 @@
+[2026-10-17T22:51:34Z] === AST ITERATION 1 START | repo=pytoolz/cytoolz sha=61a0e488 ===
+[2026-10-17T22:51:34Z] [iter=1] PHASE START: ast repo=pytoolz/cytoolz sha=61a0e488
+[2026-10-17T22:51:34Z] [iter=1] Building AST aggregate chunks
+[2026-10-17T22:51:56Z] [iter=1] AST chunks built count=1 triples=191361
+[2026-10-17T22:51:56Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/61a0e4885162cf9e0a70d9c77c5b5cd2ea28a37f/.complete
+[2026-10-17T22:51:56Z] [iter=1] PHASE END: ast elapsed_s=22 elapsed_min=0.4
+[2026-10-17T22:51:56Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pytoolz/cytoolz/commit/61a0e4885162cf9e0a70d9c77c5b5cd2ea28a37f",
       "git:hexsha": "61a0e4885162cf9e0a70d9c77c5b5cd2ea28a37f",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.2.0"
     },
     {
